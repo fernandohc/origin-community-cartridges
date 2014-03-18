@@ -14,6 +14,7 @@ Categories:
   - tomcat8
   - web_framework
 Website: http://http://tomcat.apache.org/
+Source-Url: https://github.com/fernandohc/origin-community-cartridges/tree/master/openshift-origin-cartridge-tomcat
 Help-Topics:
   "Developer Center": http://http://tomcat.apache.org/
 Cart-Data:
