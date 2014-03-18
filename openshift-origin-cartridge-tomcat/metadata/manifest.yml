@@ -1,6 +1,6 @@
 Name: tomcat
 Cartridge-Short-Name: TOMCAT
-Cartridge-Vendor: Red Hat
+Cartridge-Vendor: redhat
 Cartridge-Version: 0.0.1
 Display-Name: Tomcat 8
 Description: "Apache Tomcat is an open source software implementation of the Java Servlet and JavaServer Pages technologies."
